@@ -8,8 +8,6 @@ You might not know me yet, but I hope to change that! I am Kevin Jansen. A Full-
 
 ---
 ### 💾 Check out what open source projects I am currently working on
-[Silverstripe Artisan](https://github.com/kevin-jansen/SilverstripeArtisan) <br />
-[Silverstripe Mix](https://github.com/kevin-jansen/SilverstripeMix) <br />
 [XIVTracker_Server](https://github.com/kevin-jansen/XIVTracker_Server)
 
 <!--
