@@ -10,7 +10,7 @@ You might not know me yet, but I hope to change that! I am Kevin Jansen. A Full-
 ### 💾 Check out what open source projects I am currently working on
 [Silverstripe Artisan](https://github.com/kevin-jansen/SilverstripeArtisan) <br />
 [Silverstripe Mix](https://github.com/kevin-jansen/SilverstripeMix) <br />
-[XIVTracker](https://github.com/kevin-jansen/XIVTracker)
+[XIVTracker_Server](https://github.com/kevin-jansen/XIVTracker_Server)
 
 <!--
 **Kevin-Jansen/Kevin-Jansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
