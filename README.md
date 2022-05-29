@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You might not know me yet, but I hope to change that! I am Kevin Jansen. A Full-Stack Webdeveloper living in the harbor town of Rotterdam, the Netherlands. 🇳🇱
+You might not know me yet, but I hope to change that! I am Kevin Jansen. A Full-Stack Webdeveloper living in the harbor town of Rotterdam, the Netherlands.
 
 ---
 #### 📈 My GitHub Statistics
