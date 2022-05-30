@@ -4,7 +4,7 @@ You might not know me yet, but I hope to change that! I am Kevin Jansen. A Full-
 
 ---
 #### 📈 My GitHub Statistics
-[![Kevin Jansen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Jansen&hide=stars&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/Kevin-Jansen)
+[![Kevin Jansen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Jansen&hide=stars&show_icons=true&hide_title=true&count_private=true)](https://github.com/Kevin-Jansen)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Jansen&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Kevin-Jansen))
 
